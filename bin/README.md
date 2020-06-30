@@ -5,7 +5,7 @@
 This directory contains SDK/FW binary packages.
 
 ### Versions
-
+#### Patched with Power User APIs
 #### SDK
 ```
 SDK_VER=4.4.0928
