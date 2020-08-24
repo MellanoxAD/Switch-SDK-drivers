@@ -11,6 +11,8 @@ This directory contains SDK/FW binary packages.
 SDK_VER=4.4.0952
 ```
 
+#### SDK POWER USER
+
 #### FW
 ```
 FW_SPC1_VER=13_2007_1280
